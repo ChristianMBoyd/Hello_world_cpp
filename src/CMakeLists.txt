@@ -1,0 +1,1 @@
+add_executable(Hello_world main.cpp)
